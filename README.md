@@ -2,7 +2,7 @@
 
 ### App Description
 
-This application collects some information and outputs it as a friendly introduction method.
+This application collects some information and outputs it as a friendly introduction alert.
 
 
 ### App Walk-though
